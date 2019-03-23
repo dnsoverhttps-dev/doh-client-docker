@@ -1,1 +1,5 @@
-doh-client-docker
+# doh-client-docker
+
+## License
+
+AGPL-3.0
