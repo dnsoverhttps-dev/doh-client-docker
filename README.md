@@ -2,9 +2,9 @@
 
 ![GitHub](https://img.shields.io/github/license/dnsoverhttps-dev/doh-client-docker.svg?style=flat)
 ![GitHub top language](https://img.shields.io/github/languages/top/dnsoverhttps-dev/doh-client-docker.svg)
-![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/dnsoverhttps/doh-client.svg)
-![Docker Pulls](https://img.shields.io/docker/pulls/dnsoverhttps/doh-client.svg)
-![Docker Stars](https://img.shields.io/docker/stars/dnsoverhttps/doh-client.svg)
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/dnsoverhttpsdev/doh-client.svg)
+![Docker Pulls](https://img.shields.io/docker/pulls/dnsoverhttpsdev/doh-client.svg)
+![Docker Stars](https://img.shields.io/docker/stars/dnsoverhttpsdev/doh-client.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/dnsoverhttps-dev/doh-client-docker.svg)
 
 ## software
